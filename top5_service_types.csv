@@ -1,0 +1,438 @@
+neighborhood,sr_type,count
+Albany Park,Yard Waste Pick-Up Request,6
+Albany Park,Rodent Baiting/Rat Complaint,3
+Albany Park,Abandoned Vehicle Complaint,2
+Albany Park,Garbage Cart Maintenance,2
+Albany Park,Graffiti Removal Request,2
+Andersonville,Graffiti Removal Request,1
+Andersonville,Pothole in Street Complaint,1
+Andersonville,Rodent Baiting/Rat Complaint,1
+Andersonville,Sewer Cleaning Inspection Request,1
+Andersonville,Sidewalk Inspection Request,1
+Archer Heights,Graffiti Removal Request,4
+Archer Heights,311 INFORMATION ONLY CALL,3
+Archer Heights,City Vehicle Sticker Violation,3
+Archer Heights,Traffic Signal Out Complaint,3
+Archer Heights,Building Violation,2
+Armour Square,Garbage Cart Maintenance,1
+Armour Square,Graffiti Removal Request,1
+Armour Square,Pet Wellness Check Request,1
+Ashburn,Street Light Out Complaint,3
+Ashburn,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Ashburn,311 INFORMATION ONLY CALL,2
+Ashburn,Abandoned Vehicle Complaint,2
+Ashburn,Check for Leak,2
+Auburn Gresham,Tree Trim Request (NO LONGER BEING ACCEPTED),8
+Auburn Gresham,Abandoned Vehicle Complaint,3
+Auburn Gresham,Building Violation,3
+Auburn Gresham,Fly Dumping Complaint,3
+Auburn Gresham,Garbage Cart Maintenance,3
+Austin,Street Light Out Complaint,8
+Austin,Abandoned Vehicle Complaint,7
+Austin,311 INFORMATION ONLY CALL,6
+Austin,Check for Leak,4
+Austin,Garbage Cart Maintenance,4
+Avalon Park,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Avalon Park,Blue Recycling Cart,2
+Avalon Park,Garbage Cart Maintenance,2
+Avalon Park,Stray Animal Complaint,2
+Avalon Park,311 INFORMATION ONLY CALL,1
+Avondale,Graffiti Removal Request,8
+Avondale,Blue Recycling Cart,3
+Avondale,Street Light Out Complaint,3
+Avondale,311 INFORMATION ONLY CALL,2
+Avondale,Garbage Cart Maintenance,2
+Belmont Cragin,Tree Trim Request (NO LONGER BEING ACCEPTED),8
+Belmont Cragin,Garbage Cart Maintenance,6
+Belmont Cragin,Abandoned Vehicle Complaint,5
+Belmont Cragin,Blue Recycling Cart,5
+Belmont Cragin,Graffiti Removal Request,4
+Beverly,Tree Trim Request (NO LONGER BEING ACCEPTED),5
+Beverly,Street Light Out Complaint,2
+Beverly,311 INFORMATION ONLY CALL,1
+Beverly,Blue Recycling Cart,1
+Beverly,Dead Animal Pick-Up Request,1
+Boystown,Sewer Cleaning Inspection Request,2
+Boystown,Business Complaints,1
+Boystown,Graffiti Removal Request,1
+Bridgeport,Tree Planting Request,7
+Bridgeport,Graffiti Removal Request,5
+Bridgeport,Tree Trim Request (NO LONGER BEING ACCEPTED),5
+Bridgeport,Rodent Baiting/Rat Complaint,3
+Bridgeport,Alley Light Out Complaint,1
+Brighton Park,Graffiti Removal Request,12
+Brighton Park,Garbage Cart Maintenance,3
+Brighton Park,Sign Repair Request - Stop Sign,2
+Brighton Park,Street Light Out Complaint,2
+Brighton Park,Tree Trim Request (NO LONGER BEING ACCEPTED),2
+Bucktown,Street Light Out Complaint,3
+Bucktown,Graffiti Removal Request,2
+Bucktown,Alley Pothole Complaint,1
+Bucktown,Pothole in Street Complaint,1
+Bucktown,Rodent Baiting/Rat Complaint,1
+Burnside,Sign Repair Request - Stop Sign,1
+Calumet Heights,Garbage Cart Maintenance,4
+Calumet Heights,311 INFORMATION ONLY CALL,2
+Calumet Heights,Abandoned Vehicle Complaint,2
+Calumet Heights,Graffiti Removal Request,1
+Calumet Heights,Low Water Pressure Complaint,1
+Chatham,311 INFORMATION ONLY CALL,2
+Chatham,Garbage Cart Maintenance,2
+Chatham,Report an Injured Animal,2
+Chatham,Blue Recycling Cart,1
+Chatham,Building Violation,1
+Chicago Lawn,Graffiti Removal Request,9
+Chicago Lawn,Rodent Baiting/Rat Complaint,6
+Chicago Lawn,Abandoned Vehicle Complaint,4
+Chicago Lawn,Garbage Cart Maintenance,3
+Chicago Lawn,Building Violation,2
+Chinatown,Graffiti Removal Request,2
+Chinatown,E-Scooter Parking Complaint,1
+Chinatown,Pothole in Street Complaint,1
+Chinatown,Report an Injured Animal,1
+Chinatown,Sewer Cleaning Inspection Request,1
+Clearing,Rodent Baiting/Rat Complaint,4
+Clearing,Graffiti Removal Request,3
+Clearing,Low Water Pressure Complaint,3
+Clearing,Pothole in Street Complaint,3
+Clearing,Abandoned Vehicle Complaint,2
+Douglas,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Douglas,Street Light Out Complaint,2
+Douglas,Buildings - Plumbing Violation,1
+Douglas,Dead Bird,1
+Douglas,Missed Garbage Pick-Up Complaint,1
+Dunning,Garbage Cart Maintenance,5
+Dunning,Check for Leak,3
+Dunning,Tree Removal Request,3
+Dunning,Abandoned Vehicle Complaint,2
+Dunning,Missed Garbage Pick-Up Complaint,2
+East Side,Garbage Cart Maintenance,3
+East Side,Street Light Out Complaint,2
+East Side,Tree Trim Request (NO LONGER BEING ACCEPTED),2
+East Side,Check for Leak,1
+East Side,City Vehicle Sticker Violation,1
+East Village,311 INFORMATION ONLY CALL,2
+East Village,City Vehicle Sticker Violation,1
+East Village,Graffiti Removal Request,1
+East Village,Rodent Baiting/Rat Complaint,1
+East Village,Sign Repair Request - Stop Sign,1
+Edgewater,Graffiti Removal Request,4
+Edgewater,Rodent Baiting/Rat Complaint,3
+Edgewater,Abandoned Vehicle Complaint,2
+Edgewater,Pothole in Street Complaint,2
+Edgewater,Alley Pothole Complaint,1
+Edison Park,Low Water Pressure Complaint,2
+Edison Park,311 INFORMATION ONLY CALL,1
+Edison Park,Buildings - Plumbing Violation,1
+Edison Park,Street Light Out Complaint,1
+Edison Park,Traffic Signal Out Complaint,1
+Englewood,Tree Planting Request,27
+Englewood,311 INFORMATION ONLY CALL,4
+Englewood,Abandoned Vehicle Complaint,4
+Englewood,Blue Recycling Cart,4
+Englewood,Garbage Cart Maintenance,4
+Fuller Park,Alley Light Out Complaint,1
+Fuller Park,Building Violation,1
+Fuller Park,Dead Animal Pick-Up Request,1
+Fuller Park,Garbage Cart Maintenance,1
+Fuller Park,Pothole in Street Complaint,1
+Gage Park,Graffiti Removal Request,18
+Gage Park,Garbage Cart Maintenance,3
+Gage Park,Tree Planting Request,3
+Gage Park,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Gage Park,311 INFORMATION ONLY CALL,2
+Galewood,Blue Recycling Cart,2
+Galewood,Alley Pothole Complaint,1
+Galewood,Garbage Cart Maintenance,1
+Galewood,No Building Permit and Construction Violation,1
+Galewood,Vicious Animal Complaint,1
+Garfield Park,311 INFORMATION ONLY CALL,6
+Garfield Park,Graffiti Removal Request,6
+Garfield Park,Tree Trim Request (NO LONGER BEING ACCEPTED),5
+Garfield Park,Tree Planting Request,4
+Garfield Park,Weed Removal Request,4
+Garfield Ridge,Garbage Cart Maintenance,7
+Garfield Ridge,Rodent Baiting/Rat Complaint,3
+Garfield Ridge,Abandoned Vehicle Complaint,2
+Garfield Ridge,Graffiti Removal Request,2
+Garfield Ridge,Nuisance Animal Complaint,2
+Gold Coast,Graffiti Removal Request,1
+Grand Boulevard,Tree Trim Request (NO LONGER BEING ACCEPTED),7
+Grand Boulevard,Abandoned Vehicle Complaint,2
+Grand Boulevard,Building Violation,1
+Grand Boulevard,Buildings - Plumbing Violation,1
+Grand Boulevard,Check for Leak,1
+Grand Crossing,Garbage Cart Maintenance,4
+Grand Crossing,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Grand Crossing,311 INFORMATION ONLY CALL,2
+Grand Crossing,Building Violation,2
+Grand Crossing,Fly Dumping Complaint,2
+Grant Park,Traffic Signal Out Complaint,1
+Hegewisch,Garbage Cart Maintenance,3
+Hegewisch,Recycling Pick Up,2
+Hegewisch,Street Light Out Complaint,2
+Hegewisch,Dead Animal Pick-Up Request,1
+Hegewisch,Open Fire Hydrant Complaint,1
+Hermosa,Graffiti Removal Request,3
+Hermosa,Rodent Baiting/Rat Complaint,3
+Hermosa,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Hermosa,Tree Removal Request,2
+Hermosa,Blue Recycling Cart,1
+Humboldt Park,Tree Trim Request (NO LONGER BEING ACCEPTED),10
+Humboldt Park,Abandoned Vehicle Complaint,4
+Humboldt Park,Blue Recycling Cart,4
+Humboldt Park,Graffiti Removal Request,4
+Humboldt Park,Building Violation,3
+Hyde Park,Pothole in Street Complaint,2
+Hyde Park,Tree Debris Clean-Up Request,2
+Hyde Park,Water Lead Test Kit Request,2
+Hyde Park,Alley Pothole Complaint,1
+Hyde Park,Blue Recycling Cart,1
+Irving Park,Graffiti Removal Request,7
+Irving Park,Garbage Cart Maintenance,4
+Irving Park,Rodent Baiting/Rat Complaint,4
+Irving Park,Tree Removal Request,4
+Irving Park,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Jackson Park,Tree Debris Clean-Up Request,1
+Jefferson Park,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Jefferson Park,Abandoned Vehicle Complaint,2
+Jefferson Park,Garbage Cart Maintenance,2
+Jefferson Park,Inspect Public Way Request,2
+Jefferson Park,Traffic Signal Out Complaint,2
+Kenwood,Buildings - Plumbing Violation,2
+Kenwood,Garbage Cart Maintenance,1
+Kenwood,Street Light Out Complaint,1
+Kenwood,Tree Emergency,1
+Kenwood,Tree Trim Request (NO LONGER BEING ACCEPTED),1
+Lake View,Rodent Baiting/Rat Complaint,8
+Lake View,311 INFORMATION ONLY CALL,3
+Lake View,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Lake View,Abandoned Vehicle Complaint,2
+Lake View,Building Violation,2
+Lincoln Park,Abandoned Vehicle Complaint,3
+Lincoln Park,Sign Repair Request - All Other Signs,3
+Lincoln Park,Graffiti Removal Request,2
+Lincoln Park,Inspect Public Way Request,2
+Lincoln Park,Tree Trim Request (NO LONGER BEING ACCEPTED),2
+Lincoln Square,311 INFORMATION ONLY CALL,4
+Lincoln Square,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Lincoln Square,Garbage Cart Maintenance,3
+Lincoln Square,Dead Bird,2
+Lincoln Square,Graffiti Removal Request,2
+"Little Italy, UIC",311 INFORMATION ONLY CALL,1964
+"Little Italy, UIC",Tree Trim Request (NO LONGER BEING ACCEPTED),6
+"Little Italy, UIC",Graffiti Removal Request,4
+"Little Italy, UIC",Street Light Out Complaint,4
+"Little Italy, UIC",Open Fire Hydrant Complaint,2
+Little Village,Graffiti Removal Request,15
+Little Village,Tree Planting Request,7
+Little Village,Garbage Cart Maintenance,4
+Little Village,Rodent Baiting/Rat Complaint,4
+Little Village,Sign Repair Request - All Other Signs,3
+Logan Square,Graffiti Removal Request,10
+Logan Square,Rodent Baiting/Rat Complaint,4
+Logan Square,Yard Waste Pick-Up Request,4
+Logan Square,311 INFORMATION ONLY CALL,3
+Logan Square,Garbage Cart Maintenance,2
+Loop,Graffiti Removal Request,6
+Loop,Street Light Out Complaint,3
+Loop,Traffic Signal Out Complaint,3
+Loop,Inspect Public Way Request,2
+Loop,Sign Repair Request - All Other Signs,2
+Lower West Side,Graffiti Removal Request,20
+Lower West Side,Pothole in Street Complaint,3
+Lower West Side,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+Lower West Side,Dead Animal Pick-Up Request,2
+Lower West Side,Fly Dumping Complaint,2
+Magnificent Mile,Cab Feedback,1
+Mckinley Park,Graffiti Removal Request,10
+Mckinley Park,Garbage Cart Maintenance,3
+Mckinley Park,Abandoned Vehicle Complaint,2
+Mckinley Park,Sewer Cleaning Inspection Request,2
+Mckinley Park,Alley Light Out Complaint,1
+Montclare,Graffiti Removal Request,2
+Montclare,Pet Wellness Check Request,2
+Montclare,Abandoned Vehicle Complaint,1
+Montclare,E-Scooter Parking Complaint,1
+Montclare,Missed Garbage Pick-Up Complaint,1
+Morgan Park,Tree Debris Clean-Up Request,6
+Morgan Park,Check for Leak,2
+Morgan Park,Street Cleaning Request,2
+Morgan Park,Traffic Signal Out Complaint,2
+Morgan Park,Abandoned Vehicle Complaint,1
+Mount Greenwood,Rodent Baiting/Rat Complaint,4
+Mount Greenwood,311 INFORMATION ONLY CALL,1
+Mount Greenwood,Alley Light Out Complaint,1
+Mount Greenwood,Check for Leak,1
+Mount Greenwood,Dead Animal Pick-Up Request,1
+Museum Campus,Traffic Signal Out Complaint,2
+Near South Side,311 INFORMATION ONLY CALL,1
+Near South Side,Abandoned Vehicle Complaint,1
+Near South Side,Building Violation,1
+Near South Side,Street Light Out Complaint,1
+Near South Side,Traffic Signal Out Complaint,1
+New City,Graffiti Removal Request,7
+New City,Abandoned Vehicle Complaint,4
+New City,Garbage Cart Maintenance,3
+New City,Pothole in Street Complaint,3
+New City,Stray Animal Complaint,2
+North Center,Traffic Signal Out Complaint,4
+North Center,Graffiti Removal Request,3
+North Center,Nuisance Animal Complaint,3
+North Center,Tree Planting Request,3
+North Center,Rodent Baiting/Rat Complaint,2
+North Lawndale,Abandoned Vehicle Complaint,3
+North Lawndale,Garbage Cart Maintenance,3
+North Lawndale,311 INFORMATION ONLY CALL,2
+North Lawndale,Missed Garbage Pick-Up Complaint,2
+North Lawndale,Rodent Baiting/Rat Complaint,2
+North Park,Garbage Cart Maintenance,3
+North Park,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+North Park,Tree Removal Request,2
+North Park,Building Violation,1
+North Park,Dead Animal Pick-Up Request,1
+Norwood Park,Tree Trim Request (NO LONGER BEING ACCEPTED),5
+Norwood Park,Tree Planting Request,4
+Norwood Park,Abandoned Vehicle Complaint,3
+Norwood Park,Street Light Out Complaint,3
+Norwood Park,Rodent Baiting/Rat Complaint,2
+O'Hare,Aircraft Noise Complaint,836
+O'Hare,Cab Feedback,4
+O'Hare,Graffiti Removal Request,1
+O'Hare,Inspect Public Way Request,1
+O'Hare,Report an Injured Animal,1
+Oakland,Water Lead Test Kit Request,1
+Old Town,Street Light Out Complaint,3
+Old Town,311 INFORMATION ONLY CALL,1
+Old Town,Business Complaints,1
+Old Town,Graffiti Removal Request,1
+Old Town,Pothole in Street Complaint,1
+Portage Park,311 INFORMATION ONLY CALL,7
+Portage Park,Abandoned Vehicle Complaint,7
+Portage Park,Graffiti Removal Request,6
+Portage Park,Rodent Baiting/Rat Complaint,5
+Portage Park,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Printers Row,Report an Injured Animal,1
+Printers Row,Traffic Signal Out Complaint,1
+Printers Row,Tree Planting Request,1
+Pullman,Tree Trim Request (NO LONGER BEING ACCEPTED),2
+Pullman,311 INFORMATION ONLY CALL,1
+River North,Graffiti Removal Request,5
+River North,311 INFORMATION ONLY CALL,2
+River North,Rodent Baiting/Rat Complaint,2
+River North,Business Complaints,1
+River North,Cab Feedback,1
+Riverdale,Dead Animal Pick-Up Request,1
+Riverdale,Garbage Cart Maintenance,1
+Riverdale,Pothole in Street Complaint,1
+Riverdale,Tree Debris Clean-Up Request,1
+Rogers Park,Graffiti Removal Request,4
+Rogers Park,311 INFORMATION ONLY CALL,3
+Rogers Park,Abandoned Vehicle Complaint,3
+Rogers Park,Inspect Public Way Request,2
+Rogers Park,Rodent Baiting/Rat Complaint,2
+Roseland,311 INFORMATION ONLY CALL,8
+Roseland,Street Light Out Complaint,6
+Roseland,Garbage Cart Maintenance,5
+Roseland,Tree Debris Clean-Up Request,4
+Roseland,Sanitation Code Violation,3
+Rush & Division,Graffiti Removal Request,1
+Rush & Division,Nuisance Animal Complaint,1
+Rush & Division,Street Light Out Complaint,1
+"Sauganash,Forest Glen",Pothole in Street Complaint,3
+"Sauganash,Forest Glen",Tree Emergency,3
+"Sauganash,Forest Glen",Abandoned Vehicle Complaint,2
+"Sauganash,Forest Glen",Alley Light Out Complaint,2
+"Sauganash,Forest Glen",Blue Recycling Cart,2
+Sheffield & DePaul,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+Sheffield & DePaul,Graffiti Removal Request,2
+Sheffield & DePaul,Rodent Baiting/Rat Complaint,1
+Sheffield & DePaul,Sign Repair Request - All Other Signs,1
+South Chicago,Garbage Cart Maintenance,4
+South Chicago,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+South Chicago,Nuisance Animal Complaint,2
+South Chicago,Rodent Baiting/Rat Complaint,2
+South Chicago,Stray Animal Complaint,2
+South Deering,Street Light Out Complaint,3
+South Deering,Tree Debris Clean-Up Request,3
+South Deering,Abandoned Vehicle Complaint,1
+South Deering,Buildings - Plumbing Violation,1
+South Deering,Dead Animal Pick-Up Request,1
+South Shore,311 INFORMATION ONLY CALL,3
+South Shore,Building Violation,2
+South Shore,Dead Animal Pick-Up Request,2
+South Shore,Alley Light Out Complaint,1
+South Shore,Blue Recycling Cart,1
+Streeterville,Restaurant Complaint,2
+Streeterville,311 INFORMATION ONLY CALL,1
+Streeterville,Building Violation,1
+Streeterville,No Building Permit and Construction Violation,1
+Streeterville,Pothole in Street Complaint,1
+Ukrainian Village,Graffiti Removal Request,2
+Ukrainian Village,Abandoned Vehicle Complaint,1
+Ukrainian Village,Building Violation,1
+Ukrainian Village,Garbage Cart Maintenance,1
+Ukrainian Village,Pothole in Street Complaint,1
+United Center,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+United Center,Fly Dumping Complaint,2
+United Center,Garbage Cart Maintenance,2
+United Center,Graffiti Removal Request,2
+United Center,Alley Pothole Complaint,1
+Uptown,Graffiti Removal Request,9
+Uptown,Tree Trim Request (NO LONGER BEING ACCEPTED),7
+Uptown,Building Violation,5
+Uptown,311 INFORMATION ONLY CALL,2
+Uptown,Abandoned Vehicle Complaint,2
+Washington Heights,Garbage Cart Maintenance,5
+Washington Heights,Check for Leak,4
+Washington Heights,Pothole in Street Complaint,4
+Washington Heights,Building Violation,3
+Washington Heights,Tree Removal Request,2
+Washington Park,Traffic Signal Out Complaint,3
+Washington Park,Fly Dumping Complaint,2
+Washington Park,311 INFORMATION ONLY CALL,1
+Washington Park,Buildings - Plumbing Violation,1
+Washington Park,Protected Bike Lane - Debris Removal,1
+West Elsdon,Abandoned Vehicle Complaint,3
+West Elsdon,Graffiti Removal Request,3
+West Elsdon,Blue Recycling Cart,1
+West Elsdon,Check for Leak,1
+West Elsdon,Pothole in Street Complaint,1
+West Lawn,Graffiti Removal Request,7
+West Lawn,Garbage Cart Maintenance,3
+West Lawn,Tree Trim Request (NO LONGER BEING ACCEPTED),3
+West Lawn,Street Light Out Complaint,2
+West Lawn,Abandoned Vehicle Complaint,1
+West Loop,Graffiti Removal Request,6
+West Loop,Tree Trim Request (NO LONGER BEING ACCEPTED),4
+West Loop,311 INFORMATION ONLY CALL,3
+West Loop,Pothole in Street Complaint,3
+West Loop,Sidewalk Inspection Request,2
+West Pullman,Tree Debris Clean-Up Request,4
+West Pullman,311 INFORMATION ONLY CALL,3
+West Pullman,Garbage Cart Maintenance,3
+West Pullman,Blue Recycling Cart,2
+West Pullman,Tree Emergency,2
+West Ridge,Abandoned Vehicle Complaint,6
+West Ridge,Tree Trim Request (NO LONGER BEING ACCEPTED),5
+West Ridge,Garbage Cart Maintenance,4
+West Ridge,Building Violation,2
+West Ridge,No Building Permit and Construction Violation,2
+West Town,Graffiti Removal Request,9
+West Town,Rodent Baiting/Rat Complaint,5
+West Town,Tree Removal Request,3
+West Town,Alley Pothole Complaint,2
+West Town,No Building Permit and Construction Violation,2
+Wicker Park,Graffiti Removal Request,6
+Wicker Park,Tree Trim Request (NO LONGER BEING ACCEPTED),6
+Wicker Park,Tree Removal Request,3
+Wicker Park,311 INFORMATION ONLY CALL,1
+Wicker Park,City Vehicle Sticker Violation,1
+Woodlawn,Garbage Cart Maintenance,3
+Woodlawn,311 INFORMATION ONLY CALL,2
+Woodlawn,Blue Recycling Cart,1
+Woodlawn,Buildings - Plumbing Violation,1
+Woodlawn,Clean Vacant Lot Request,1
+Wrigleyville,Graffiti Removal Request,2
+Wrigleyville,Rodent Baiting/Rat Complaint,2
+Wrigleyville,Business Complaints,1
