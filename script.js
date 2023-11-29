@@ -1,39 +1,105 @@
 const spec1 = {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {
-    "url": "data.json"
-  },
-  "title": "Top 10 Service Requests by Type and Status",
-  "width": 400,
-  "height": 400,
-  "selection": {
-    "Status": {
-      "type": "single",
-      "fields": ["status"],
-      "bind": {"input": "select", "options": ["Completed", "Canceled", "Open"]}
+  "config": {
+    "view": {
+      "continuousWidth": 300,
+      "continuousHeight": 300
     }
   },
-  "transform": [
-    {"filter": {"selection": "Status"}},
-    {"aggregate": [{"op": "count", "as": "count"}], "groupby": ["sr_type"]},
-    {"window": [{"op": "rank", "as": "rank"}, {"field": "count", "order": "descending"}]},
-    {"filter": "datum.rank <= 10"}
-  ],
+  "data": {
+    "url": "https://data.cityofchicago.org/resource/v6vf-nfxy.json"
+  },
   "mark": {
     "type": "bar",
     "cornerRadiusTopLeft": 3,
     "cornerRadiusTopRight": 3
   },
   "encoding": {
-    "x": {"field": "sr_type", "type": "nominal", "title": "Service Request Type", "sort": "-y"},
-    "y": {"field": "count", "type": "quantitative", "title": "Count"},
-    "color": {"field": "sr_type", "type": "nominal", "legend": null},
+    "color": {
+      "field": "sr_type",
+      "legend": null,
+      "type": "nominal"
+    },
     "tooltip": [
-      {"field": "sr_type", "type": "nominal"},
-      {"field": "count", "type": "quantitative", "title": "Count"}
-    ]
-  }
-};
+      {
+        "field": "sr_type",
+        "type": "nominal"
+      },
+      {
+        "field": "count",
+        "title": "Count",
+        "type": "quantitative"
+      }
+    ],
+    "x": {
+      "field": "sr_type",
+      "sort": "-y",
+      "title": "Service Request Type",
+      "type": "nominal"
+    },
+    "y": {
+      "field": "count",
+      "title": "Count",
+      "type": "quantitative"
+    }
+  },
+  "height": 400,
+  "params": [
+    {
+      "name": "Status",
+      "select": {
+        "type": "point",
+        "fields": [
+          "status"
+        ]
+      },
+      "bind": {
+        "input": "select",
+        "options": [
+          "Open", "Completed",  "Canceled"
+        ]
+      }
+    }
+  ],
+  "title": "Top 10 Service Requests by Type and Status",
+  "transform": [
+    {
+      "filter": {
+        "param": "Status"
+      }
+    },
+    {
+      "aggregate": [
+        {
+          "op": "count",
+          "as": "count"
+        }
+      ],
+      "groupby": [
+        "sr_type"
+      ]
+    },
+    {
+      "window": [
+        {
+          "op": "rank",
+          "field": "count",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "count",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "(datum.rank <= 10)"
+    }
+  ],
+  "width": 400,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.16.3.json"
+}
 vegaEmbed("#vis1", spec1);  
 
 // const spec2 = {
