@@ -2,8 +2,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: 
-        "viz1 viz3 viz5"
-        "viz2 viz4 viz6";
+        "viz1 viz2 viz5"
+        "viz3 viz4 viz6";
     gap: 20px;
     width: 100%;
     max-width: 1440px;
@@ -11,14 +11,12 @@
 }
 
 .visualization {
-    width: 480px;  
+    width: 480px;
     height: 300px;
 }
 
 #vis1 {
     grid-area: viz1;
-    width: 480px;  
-    height: 300px;
 }
 
 #vis2 {
