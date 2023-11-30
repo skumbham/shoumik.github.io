@@ -1,28 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CS 424 Assignment 3 Template</title>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+        <link rel="stylesheet" href="./styles.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CS 424 Assignment 3 Template</title>
-    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    <link rel="stylesheet" href="./styles.css">
-</head>
-
+    </head>
 <body>
-    <h1>Exploring the Pulse of the Windy City: A Dive into Chicago's 311 Service Requests</h1>
-    <div class="grid">
-        <div class="visualization" id="vis1"></div>
-        <div class="visualization" id="vis2"></div>
-        <div class="visualization" id="vis3"></div>
-        <div class="visualization" id="vis5"></div>
-        <div class="visualization" id="vis2"></div>
-        <div class="visualization" id="vis4"></div>
-        <div class="visualization" id="vis6"></div>
+    <div class="container-fluid">
+        <h1>Exploring the Pulse of the Windy City: A Dive into Chicago's 311 Service Requests</h1>
+        <!-- First Row -->
+        <div class="row">
+            <div class="col-md-auto" style="height: 50vh" id="vis1">
+                <select id="statusDropdown">
+                    <option value="Open">Open</option>
+                    <option value="Completed">Completed</option>
+                    <option value="Canceled">Canceled</option>
+                </select>
+            </div>
+            <div class="col-md-auto" style="height: 50vh" id="vis2">
+                <!-- Visualization 2 content -->
+            </div>
+        </div>
+        <!-- Second Row -->
+        <div class="row">
+            <div class="col-md-auto" style="height: 50vh" id="vis3">
+                <!-- Visualization 3 content -->
+            </div>
+            <div class="col-md-auto" style="height: 50vh" id="vis4">
+                <!-- Visualization 4 content -->
+            </div>
+        </div>
+        <!-- Third Row -->
+        <div class="row">
+            <div class="col-md-auto" style="height: 50vh" id="vis5">
+                <!-- Visualization 5 content -->
+            </div>
+            <div class="col-md-auto" style="height: 50vh" id="vis6">
+                <!-- Visualization 6 content -->
+            </div>
+        </div>
     </div>
     <script src="./script.js"></script>
 </body>
-
 </html>
